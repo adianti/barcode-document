@@ -14,7 +14,6 @@ use BaconQrCode\Writer;
  * @subpackage lib
  * @author     Pablo Dall'Oglio
  * @copyright  Copyright (c) 2006 Adianti Solutions Ltd. (http://www.adianti.com.br)
- * @license    https://adiantiframework.com.br/license
  */
 class AdiantiBarcodeDocumentGenerator extends AdiantiPDFDesigner
 {
