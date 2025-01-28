@@ -24,7 +24,7 @@
     "require": {
         "adianti/pdfdesigner": "*",
         "bacon/bacon-qr-code": "*",
-        "picqer/php-barcode-generator": "*",
+        "picqer/php-barcode-generator": "*"
     },
     "type": "library"
 }
