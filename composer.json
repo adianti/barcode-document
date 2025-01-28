@@ -15,7 +15,7 @@
     "include-path": [
         "./"
     ],
-    "license": "MIT",
+    "license": "https://adiantiframework.com.br/license",
     "minimum-stability": "dev",
     "name": "adianti/barcode-document",
     "support": {
